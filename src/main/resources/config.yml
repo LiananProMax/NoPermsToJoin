@@ -1,0 +1,12 @@
+# 检查间隔（秒）
+interval: 3
+
+# 需要检查的权限组列表
+checked-groups:
+  - default
+
+# 踢出玩家的原因，支持多行
+kick-reason: |
+  &c您无权访问此服务器！
+  &e请返回大厅或联系管理员
+  &7错误代码：NO_PERMISSION
