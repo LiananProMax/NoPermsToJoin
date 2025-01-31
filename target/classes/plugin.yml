@@ -1,5 +1,0 @@
-name: LobbySend
-version: '1.0'
-main: dev.lianan.lobbysend.LobbySendPlugin
-api-version: '1.21'
-softdepend: [LuckPerms]
